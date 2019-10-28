@@ -25,4 +25,4 @@ LOL-Secue 這款Tools 會不定時更新，因此使用者可自行查看本專�
 
 ## 問題/協助
 
-若您使用程式或者任何錯誤Bug ，請打開**Project Issues** 或寫信：**honcbb@gmail.com**
+若您使用程式期間有問題或者任何錯誤Bug ，請打開**Project Issues** 或寫信：**honcbb@gmail.com**
