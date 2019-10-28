@@ -1,2 +1,2 @@
 # LOL-Secure-Tools
-LOL game software privacy protection gadgets
+這是一個簡單小型的LOL 遊戲隱私防護工具，目的在於可以保護用戶處於"離開"  狀態時避免帳號被濫用或限制家長想限制孩子遊玩時間
