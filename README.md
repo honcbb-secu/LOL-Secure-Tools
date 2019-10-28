@@ -1,6 +1,8 @@
 # LOL-Secure-Tools
 這是一個簡單小型的LOL 遊戲隱私防護工具，目的在於可以保護用戶處於"離開"  狀態時避免帳號被濫用或家長想限制孩子遊玩時間。
 
+![image](https://i.imgur.com/RxTSeTq.jpg)
+
 ## 更新
 
 LOL-Secue 這款Tools 會不定時更新，因此使用者可自行查看本專案Page Release 來獲取最新版本。
