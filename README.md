@@ -1,5 +1,6 @@
 # LOL-Secure-Tools
 [![Release](https://img.shields.io/badge/%E7%89%88%E6%9C%AC-V1.0-green)](https://github.com/honcbb-secu/LOL-Secure-Tools/releases)
+
 這是一個簡單小型的LOL 遊戲隱私防護工具，目的在於可以保護用戶處於"離開電腦"  狀態時避免帳號被濫用或家長想限制孩子遊玩時間。
 
 ![image](https://i.imgur.com/RxTSeTq.jpg)
